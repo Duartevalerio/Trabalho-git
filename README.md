@@ -12,8 +12,8 @@ Este projeto tem como objetivo criar uma página colaborativa com receitas compa
 
 
 ## Integrantes
-- Nome 1
-- Nome 2
+Francisco Santo (2024482)
+Duarte Valério (2024354)
 - Nome 3
 
 ## Descrição
