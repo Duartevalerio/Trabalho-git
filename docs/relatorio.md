@@ -2,7 +2,7 @@
 
 ## Integrantes do Grupo
 - Nome do projeto: Trabalho-git
-- Integrantes: Duarte Valerio 2024354
+- Integrantes: Duarte Valerio 2024354 Francisco Santo 2024482
 - Repositório: [https://github.com/Duartevalerio/Trabalho-git.git]
 
 ## Branches Criadas
