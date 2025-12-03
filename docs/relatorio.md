@@ -49,7 +49,7 @@ Criar receita de Pudim (Responsável: Duarte)
 
 Criar receita de Gelado (Responsável: Duarte)
 
-Criar receita de paodequijo (Responsável: Francisco)
+Criar receita de paodequeijo (Responsável: Francisco)
 
 Criar receita de sopa (Responsável: Francisco)
 
