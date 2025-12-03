@@ -14,6 +14,12 @@ feature/Pudim: Criada para adicionar a receita de pudim.
 
 feature/Gelado: Criada para adicionar a receita de gelado.
 
+feature/paodequeijo: Criada para adicionar a receita de pão de queijo.
+
+feature/sopa: Criada para adicionar a receita de sopa.
+
+feature/batata: Criada para adicionar a receita de batatas.
+
 main: Branch principal onde o código final é unificado.
 
 Processo de Merge: Os merges foram realizados através de Pull Requests no GitHub, garantindo que o código pudesse ser revisto pelos colegas antes de ser integrado.
@@ -27,6 +33,13 @@ Procurámos utilizar mensagens claras e objetivas seguindo as boas práticas. Ex
 
 "Adiciona receita de Gelado"
 
+"Adiciona receita de paodequeijo"
+
+"Adiciona receita de sopa"
+
+"Adiciona receita de Batatas"
+
+
 ## Issues Criadas
 Utilizámos as Issues para gerir o trabalho pendente e atribuir tarefas. As principais issues criadas foram:
 
@@ -35,6 +48,13 @@ Criar receita de Bolo de Chocolate (Responsável: Duarte)
 Criar receita de Pudim (Responsável: Duarte)
 
 Criar receita de Gelado (Responsável: Duarte)
+
+Criar receita de paodequijo (Responsável: Francisco)
+
+Criar receita de sopa (Responsável: Francisco)
+
+Criar receita de Batatas (Responsável: Francisco)
+
 
 Completar relatório em docs/relatorio.md (Tarefa de documentação)
 
